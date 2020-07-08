@@ -1,9 +1,3 @@
-/*
-Module Name: Casino Game
-Date Written: 9/13/2019
-Author: Cedric Martinez
-Purpose: Run a casino game where we roll two dice and determine if the user wins or loses, and manages their money
-*/
 
 #include "pch.h"
 #include <iostream>
